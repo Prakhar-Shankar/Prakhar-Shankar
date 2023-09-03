@@ -1,3 +1,4 @@
+![Shadir's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 <h1 align="center">Hi 👋, I'm Prakhar Shankar</h1>
 <h3 align="center">Passionate Web Developer adept in bringing forth expertise in creating, designing and maintaining websites. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies including HTML, CSS, Tailwind CSS, Vanilla JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB,PHP, SQL,and C/C++/Python. Able to effectively self-manage during independent projects, as well as collaborate in a team setting</h3>
 
