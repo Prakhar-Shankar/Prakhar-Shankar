@@ -1,4 +1,4 @@
-![Prakhars's GitHub Banner]([https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80))
+<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">">
 <h1 align="center">Hi 👋, I'm Prakhar Shankar</h1>
 <h3 align="center">Passionate Web Developer adept in bringing forth expertise in creating, designing and maintaining websites. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies including HTML, CSS, Tailwind CSS, Vanilla JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB,PHP, SQL,and C/C++/Python. Able to effectively self-manage during independent projects, as well as collaborate in a team setting</h3>
 
