@@ -1,6 +1,8 @@
-<img align="right" alt="Coding" width="400" margin-left="5px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <h1 align="center">Hi 👋, I'm Prakhar Shankar</h1>
 <h3 align="center">Passionate Web Developer adept in bringing forth expertise in creating, designing and maintaining websites. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies including HTML, CSS, Tailwind CSS, Vanilla JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB,PHP, SQL,and C/C++/Python. Able to effectively self-manage during independent projects, as well as collaborate in a team setting</h3>
+
+<img align="right" alt="Coding" width="400" margin-left="5px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m interested in **web development and open-source**
 
