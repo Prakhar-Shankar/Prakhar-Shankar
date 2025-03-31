@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **prakharshankar247@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Ehd6aS37Zt--0bI_jK-KGUcitvtb0Ei/view?usp=drive_link](https://drive.google.com/file/d/11Ehd6aS37Zt--0bI_jK-KGUcitvtb0Ei/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prakharshankar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakharshankar2" height="30" width="40" /></a>
